@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfolioloading.com](https://myportfolioloading.com)
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Web Devlopment**
 
 - 📫 How to reach me **omee5663@gmail.com**
 
